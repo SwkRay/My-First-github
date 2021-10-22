@@ -1,0 +1,41 @@
+{
+  "selected_products": {
+    "MLTE3ZA/A": [
+      "iPhone 13 Pro",
+      "256GB 天峰藍色"
+    ]
+  },
+  "selected_area": "Hong Kong",
+  "exclude_stores": [
+    "R409",
+    "R428",
+    "R485",
+    "R499",
+    "R610",
+    "R673"
+  ],
+  "notification_configs": {
+    "dingtalk": {
+      "access_token": "",
+      "secret_key": ""
+    },
+    "telegram": {
+      "chat_id": "",
+      "bot_token": "",
+      "http_proxy": ""
+    },
+    "bark": {
+      "url": "",
+      "query_parameters": {
+        "url": null,
+        "isArchive": null,
+        "group": null,
+        "icon": null,
+        "automaticallyCopy": null,
+        "copy": null
+      }
+    }
+  },
+  "scan_interval": 30,
+  "alert_exception": false
+}
