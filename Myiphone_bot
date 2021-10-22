@@ -1,3 +1,0 @@
-$ mkdir $project_name
-$ cd $project_name
-$ pipenv install --three python-telegram-bot flask gunicorn requests
